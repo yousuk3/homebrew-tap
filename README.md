@@ -1,4 +1,4 @@
-# My own tap for Homebrew Casks
+# My personal Homebrew tap
 
 [Homebrew](https://brew.sh/) is The Missing Package Manager for macOS (or Linux).
 
